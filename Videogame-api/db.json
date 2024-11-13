@@ -1,0 +1,150 @@
+{
+  "games": [
+    {
+      "id": 1,
+      "title": "The Witcher 3: Wild Hunt",
+      "developer": "CD Projekt Red",
+      "genre": "RPG",
+      "platform": "PC",
+      "release_date": "2015-05-19",
+      "rating": 9.5
+    },
+    {
+      "id": 2,
+      "title": "Cyberpunk 2077",
+      "developer": "CD Projekt Red",
+      "genre": "RPG",
+      "platform": "PC",
+      "release_date": "2020-12-10",
+      "rating": 8.0
+    },
+    {
+      "id": 3,
+      "title": "Half-Life: Alyx",
+      "developer": "Valve",
+      "genre": "Shooter",
+      "platform": "PC",
+      "release_date": "2020-03-23",
+      "rating": 9.0
+    },
+    {
+      "id": 4,
+      "title": "DOOM Eternal",
+      "developer": "id Software",
+      "genre": "Shooter",
+      "platform": "PC",
+      "release_date": "2020-03-20",
+      "rating": 8.9
+    },
+    {
+      "id": 5,
+      "title": "Minecraft",
+      "developer": "Mojang Studios",
+      "genre": "Sandbox",
+      "platform": "PC",
+      "release_date": "2011-11-18",
+      "rating": 9.0
+    },
+    {
+      "id": 6,
+      "title": "Grand Theft Auto V",
+      "developer": "Rockstar North",
+      "genre": "Action-Adventure",
+      "platform": "PC",
+      "release_date": "2015-04-14",
+      "rating": 9.3
+    },
+    {
+      "id": 7,
+      "title": "Red Dead Redemption 2",
+      "developer": "Rockstar Games",
+      "genre": "Action-Adventure",
+      "platform": "PC",
+      "release_date": "2019-11-05",
+      "rating": 9.7
+    },
+    {
+      "id": 8,
+      "title": "Assassin's Creed Valhalla",
+      "developer": "Ubisoft",
+      "genre": "Action RPG",
+      "platform": "PC",
+      "release_date": "2020-11-10",
+      "rating": 8.3
+    },
+    {
+      "id": 9,
+      "title": "Sekiro: Shadows Die Twice",
+      "developer": "FromSoftware",
+      "genre": "Action-Adventure",
+      "platform": "PC",
+      "release_date": "2019-03-22",
+      "rating": 9.5
+    },
+    {
+      "id": 10,
+      "title": "Control",
+      "developer": "Remedy Entertainment",
+      "genre": "Action-Adventure",
+      "platform": "PC",
+      "release_date": "2019-08-27",
+      "rating": 8.7
+    }
+  ],
+  "developers": [
+    {
+      "id": 1,
+      "name": "CD Projekt Red",
+      "country": "Poland",
+      "founded": "2002"
+    },
+    {
+      "id": 2,
+      "name": "Valve",
+      "country": "USA",
+      "founded": "1996"
+    },
+    {
+      "id": 3,
+      "name": "id Software",
+      "country": "USA",
+      "founded": "1991"
+    },
+    {
+      "id": 4,
+      "name": "Mojang Studios",
+      "country": "Sweden",
+      "founded": "2009"
+    },
+    {
+      "id": 5,
+      "name": "Rockstar North",
+      "country": "UK",
+      "founded": "1988"
+    },
+    {
+      "id": 6,
+      "name": "Rockstar Games",
+      "country": "USA",
+      "founded": "1998"
+    },
+    {
+      "id": 7,
+      "name": "Ubisoft",
+      "country": "France",
+      "founded": "1986"
+    },
+    {
+      "id": 8,
+      "name": "FromSoftware",
+      "country": "Japan",
+      "founded": "1986"
+    },
+    {
+      "id": 9,
+      "name": "Remedy Entertainment",
+      "country": "Finland",
+      "founded": "1995"
+    }
+  ]
+}
